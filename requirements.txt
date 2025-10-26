@@ -1,0 +1,14 @@
+python-telegram-bot==20.6
+requests
+feedparser
+transformers
+torch
+torchvision
+torchaudio
+scikit-learn
+apscheduler
+currencyconverter
+sentence-transformers
+sqlite-utils
+aiohttp
+asyncio
